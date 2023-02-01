@@ -1,0 +1,211 @@
+body{
+	font-family: 'Roboto', sans-serif;
+	margin: 0px;
+}
+.portfolio-section{
+    width: 1200px;
+    background-color: #eaeaea;
+    padding: 50px 25px;
+    margin: 50px auto;
+    border-radius: 30px;
+    box-sizing: border-box;
+    text-align: center;
+    box-shadow: inset 0px 1px 11px 0px #a6a4a4;
+}
+h1{
+	margin: 0px;
+    color: #795548;
+    font-size: 50px;
+    font-weight: 900;
+    letter-spacing: 15px;
+    text-transform: uppercase;
+}
+p{
+	font-size: 20px;
+    letter-spacing: 2px;
+    line-height: 30px;
+}
+mark{
+	color: white;
+    background-color: deepskyblue;
+    padding: 5px 10px;
+    border-radius: 15px;
+    display: inline-block;
+}
+.color1{
+	color: red;
+}
+.color2{
+	color: blue;
+}
+.color3{
+	color: green;
+}
+iframe{
+	margin: auto;
+	display: block;
+	border-radius: 30px;
+    box-shadow: inset 0px 1px 11px 0px #a6a4a4;
+}
+.section1{
+		padding: 300px 0px;
+		text-align: center;
+		background: url(https://images.unsplash.com/photo-1675151049987-c0428a371e52?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80);
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+}
+.section1 h1{
+	font-size: 50px;
+	font-weight: 900;
+	color: #fff;
+}
+
+.section2{
+		padding: 300px 0px;
+		text-align: center;
+		background: url(https://images.unsplash.com/photo-1675166817537-9accbd183a69?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80);
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+}
+.section2 h1{
+	font-size: 50px;
+	font-weight: 900;
+	color: #fff;
+}
+.section3{
+		padding: 300px 0px;
+		text-align: center;
+		background: url(https://images.unsplash.com/photo-1661956600684-97d3a4320e45?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80);
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+}
+.section3 h1{
+	font-size: 50px;
+	font-weight: 900;
+	color: black;
+}
+.section4{
+		padding: 300px 0px;
+		text-align: center;
+		background: url(../images/tapita-app-listing.webp);
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+}
+.section4 h1{
+	font-size: 50px;
+	font-weight: 900;
+	color: #f27038;
+	background-color: skyblue;
+	display: inline-block;
+	padding: 10px;
+	border-radius: 10px;
+}
+.section5{
+		padding: 300px 0px;
+		text-align: center;
+		background: url(../images/image-5-1024x473.png);
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+}
+.section5 h1{
+	font-size: 50px;
+	font-weight: 900;
+	color: black;
+	background-color: whitesmoke;
+	display: inline-block;
+	padding: 10px;
+	border-radius: 10px;
+}
+.section6{
+		padding: 300px 0px;
+		text-align: center;
+		background: url(../images/gempage-page-builder.jpeg);
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+}
+.section6 h1{
+	font-size: 50px;
+	font-weight: 900;
+	color: #fff;
+	background-color: deepskyblue;
+	display: inline-block;
+	padding: 10px;
+	border-radius: 10px;
+}
+.section7{
+		padding: 300px 0px;
+		text-align: center;
+		background: url(../images/Automizely-Page-Builder.png);
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+}
+.section7 h1{
+	font-size: 50px;
+	font-weight: 900;
+	color: black;
+	background-color: deepskyblue;
+	display: inline-block;
+	padding: 10px;
+	border-radius: 10px;
+}
+.section8{
+		padding: 300px 0px;
+		text-align: center;
+		background: url(../images/Shogun-page-builder.png);
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+}
+.section8 h1{
+	font-size: 50px;
+	font-weight: 900;
+	color: whitesmoke;
+	background-color: purple;
+	display: inline-block;
+	padding: 10px;
+	border-radius: 10px;
+}
+.section9{
+		padding: 300px 0px;
+		text-align: center;
+		background: url(../images/LayoutHub-Easy-Page-Builder.png);
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+}
+.section9 h1{
+	font-size: 50px;
+	font-weight: 900;
+	color: yellowgreen;
+	background-color: palegoldenrod;
+	display: inline-block;
+	padding: 10px;
+	border-radius: 10px;
+}
+.section10{
+		padding: 300px 0px;
+		text-align: center;
+		background: url(../images/Zipify-Page-Builder.png);
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+}
+.section10 h1{
+	font-size: 50px;
+	font-weight: 900;
+	color: papayawhip;
+	background-color: blueviolet;
+	display: inline-block;
+	padding: 10px;
+	border-radius: 10px;
+}
+
+
+
